@@ -1,0 +1,32 @@
+/*Carlos Acosta Curiel*/
+@import url('https://font.googleapis.com/css2?family=Montserrat:wght@100&dispaly=swap');
+.main_container{ 
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center; 
+
+}
+
+section { 
+    text-align: center; 
+}
+
+header {
+    color: #f4f4f9;
+    background-color: #0b0a0a;  
+}
+
+footer{
+    
+    color: #f4f4f9;
+    background-color: #0b0a0a;
+    
+}
+ img{
+    height: 200px;
+ }
+a{
+    color: #f4f4f9;
+}
+a:hover {
+    color: #a9065d;
+}

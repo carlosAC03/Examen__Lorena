@@ -1,0 +1,97 @@
+/*Carlos Acosta Curiel*/
+@import url('https://font.googleapis.com/css2?family=Montserrat:wght@100&dispaly=swap');
+body{
+ background-color: #f4f4f9;
+    font-family: 'Montserrat', Arial, sans-serif;
+    
+
+}
+
+ p{
+    margin-left: 3%;
+ }
+ h3, h2{
+    text-align: center;
+ }
+#nombre_apell{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+}
+#dni{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+}
+#curso{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+}
+#lugar{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+#dia{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+#mes{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+#anio{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+#firma{
+    display: flex;
+    width: 90%;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+form{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(1, 1, 0, 0.1);   
+}
+
+header {
+    color: #f4f4f9;
+    background-color: #0b0a0a; 
+    text-align: center;  
+}
+
+footer{
+    
+    color: #f4f4f9;
+    background-color: #0b0a0a;
+    text-align: center; 
+    
+}
+#boton{
+    background-color: #a9065d;
+    border-color: #a9065d;
+    box-shadow: 0px 0px 15px #a9065d(0, 0, 0, 0.1); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5%;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-left: 100px;
+}
+
+a{
+    color: #f4f4f9;
+}
+a:hover {
+    color: #a9065d;
+}
